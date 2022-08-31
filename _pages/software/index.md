@@ -12,7 +12,7 @@ rank: 3
 
 
 
-**Python modules that to simulate the behavior of optical systems**
+**Free and open source python library to the easily simulate optical systems**
 
 [pyoptools](https://github.com/cihologramas/pyoptools)<sup>1</sup>
 
