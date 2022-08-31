@@ -7,7 +7,7 @@ rank: 3
 ---
 
 <div style="margin-bottom: 50px;">
-    <img class="float-right" width="50%" src="{{ 'projects/pyoptools.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img class="float-left" width="25%" src="{{ 'projects/pyoptools.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
 
