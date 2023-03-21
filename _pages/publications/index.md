@@ -11,7 +11,7 @@ Members of the lab indicated in **boldface**
 
 ## 2023
 
-[Fundamentals of Optics. An Introductory Course] (https://spie.org/Publications/Book/2660874?&origin_id=x653&SSO=1)
+[Fundamentals of Optics. An Introductory Course](https://spie.org/Publications/Book/2660874)
 
 **Yobani Mejía**. SPIE Book, ISBN: 9781510657809.
 
