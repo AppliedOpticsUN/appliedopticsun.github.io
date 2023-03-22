@@ -1,11 +1,3 @@
-- name: New methods for corneal topography
-  description: >
-    Description of the project
-  funding: UNAL
-  collaborators: Lucia  
-  assignees: David
-  photo: projects/dhitsig.png
-
 - name: Design of a commercial prototype of a lensometer
   description: >
     The idea of the project is to build the software and hardware required in order to get a usefull lensometer capable of
