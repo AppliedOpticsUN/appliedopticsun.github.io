@@ -47,3 +47,20 @@
     development of cost-effective high-resolution microscopy devices, novel computational microscopy methods and biophotonics. 
   photo: team/omar.jpg
 
+- name: Santiago Rodríguez
+  is_pi: False
+  is_current: True
+  position: Student
+  orcid:  
+  scholar:
+  researchgate: 
+  github: https://github.com/sarodriguezme
+  twitter: none
+  bio: >
+    Master student at the <a href="http://http://www.ciencias.bogota.unal.edu.co/departamentos/departamento-de-fisica/el-departamento/">Department of Physics of UNAL</a>.
+    I obtained the degree of Physicist in 2022 with the thesis -Refractive power maps of progressive addition lenses using the Fourier transform-, at Universidad 
+    Nacional de Colombia and awarded with the best poster of the department of physics in 2022-I.
+    I am currently working on the design of a commercial prototype of a lensometer, as an extension of my bachelor degree work.
+    Interest: Fourier Optics, Hartmann test, Matlab.
+
+  photo: team/santiago.jpeg
