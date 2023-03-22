@@ -24,6 +24,9 @@ rank: 2
             {% if project.assignees %}
                 <p><b>Assignees: </b>{{ project.assignees }}</p>
             {% endif %}
+            {% if project.contact %}
+                <p><b>Contact: </b>{{ project.contact }}</p>
+            {% endif %}
             <p>{{ project.description }}</p>
         </li>
     {% endif %}
