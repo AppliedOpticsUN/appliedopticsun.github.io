@@ -9,6 +9,6 @@ rank: 7
 ## Open Positions
 ****
 
-Contact: ymejiab@unal.edu.co
+*Contact:  ymejiab@unal.edu.co
 
 
