@@ -1,11 +1,10 @@
 - name: Design of a commercial prototype of a lensometer
   description: >
-    The idea of the project is to build the software and hardware required in order to get a usefull lensometer capable of
-    analice traditional and also progressive addition ophthalmic lenses, this analysis give us the sphere and cylinder power maps
-    via Fourier analisis and a rectangular-Hartmann screen. With this information we can know how are the diopters over the lenses
-    and the shape of the progressive corridor.
+    The main idea of the project is to build a usefull lensometer capable of analising traditional 
+    and also progressive addition ophthalmic lenses and obtaining the sphere and cylinder power maps
+    via Fourier analisis of rectangular-Hartmann patterns.
   funding: Faculty of science - UNAL
-  collaborators: Yobani Mejía
+  collaborators: None
   assignees: Santiago Rodríguez
   contact: Yobani Mejía, ymejiab@unal.edu.co
   photo: projects/Lensometria-esquema.png
