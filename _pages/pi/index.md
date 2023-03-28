@@ -1,12 +1,12 @@
 ---
 layout: page
-title: UNBOS
+title: National University of Colombia-Bogotá Student Chapter
 permalink: /pi/
 toggle: on
 rank: 6
 ---
 
-# National University of Colombia-Bogotá Student Chapter
+# 
 Welcome to the project landing page
 
 ## Overview
