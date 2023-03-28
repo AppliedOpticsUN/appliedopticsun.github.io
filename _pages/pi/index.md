@@ -5,10 +5,10 @@ permalink: /pi/
 toggle: on
 rank: 6
 ---
+<div style="margin-bottom: 2em;">
+    <img src="{{ 'unbos_logo.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+</div>
 
-<p align="center">
-<img src=unbos_logo.png> 
-</p>
 
 Welcome to the project landing page
 
