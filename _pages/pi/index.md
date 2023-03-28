@@ -6,9 +6,6 @@ toggle: on
 rank: 6
 ---
 
-<img src="{{ 'unbos_logo.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
-
-
 
 Welcome to the project landing page
 
