@@ -6,7 +6,7 @@ toggle: on
 rank: 6
 ---
 
-# Page for advertising interesting outreach projects
+# UNBOS - National University of Colombia-Bogotá Student Chapter
 Welcome to the project landing page
 
 ## Overview
