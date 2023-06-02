@@ -10,7 +10,7 @@ rank: 3
     <img class="float-left" width="15%" src="{{ 'projects/pyoptools.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
-**1) Pyoptools: Free and open source python library to the easily simulate optical systems**
+**1) PyOpTools: Free and open source python library to the easily simulate optical systems**
 
 pyOpTools is a set of packages that allow the simulation of optical systems by raytracing as well as some calculations involving wavefronts, currently under development. It is written in Python and Cython, and is being developed by the technological development group of Combustión Ingenieros S.A.S, and the applied optics group of the Universidad Nacional de Colombia.
 
